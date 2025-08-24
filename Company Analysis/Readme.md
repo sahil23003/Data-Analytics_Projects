@@ -22,5 +22,5 @@ This is  a Project report on company Analysis in which i have Performed activiti
 - Comparing of Public and Private Comapnies.
 - Top 5 IT companies Consultancy & Services.
  
- ![]
+ ![Dashboard](https://github.com/sahil23003/Data-Analytics_Projects/blob/main/Company%20Analysis/Dashboard.png)
  
